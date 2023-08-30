@@ -1,2 +1,3 @@
 # BHARTH-INTERNSHIP
-This repository contains the tasks I completed during my Machine Learning internship with Bharat Intern. Throughout the internship, I worked on various projects and models to enhance my skills in the field of Machine Learning
+House Price Prediction: This task involved building a machine learning model to predict the prices of houses based on various features such as location, size, and number of rooms.
+The overall output gives you actual values vs predicted values
